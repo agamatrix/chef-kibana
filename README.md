@@ -1,6 +1,10 @@
 kibana Cookbook
 ===============
-A stand-alone cookbook for Kibana3
+A stand-alone cookbook for Kibana3. 
+
+NOTE: This cookbook has been forked and commits merged from the following until the
+repository located at https://github.com/lusis/chef-kibana can merge in some pull requests:
+* https://github.com/lusis/chef-kibana/pull/21
 
 Requirements
 ------------
